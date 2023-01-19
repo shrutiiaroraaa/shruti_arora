@@ -1,0 +1,18 @@
+.hero{
+    background-color:  #EDF3FD;
+    height: auto;
+    width: 100%;
+}
+.hero-text{
+    text-align: left; 
+    padding: 0 2rem;
+}
+.hero-img{
+    text-align: right;
+    position: relative;
+    bottom: -31px;
+}
+.hero-img img{
+    max-width: 100%;
+    
+}
